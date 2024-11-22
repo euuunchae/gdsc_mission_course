@@ -1,5 +1,0 @@
-<ol>
-    {%for member in members%}
-    <li>{{member.member_id}}</li>
-    {% endfor %}
-</ol>
